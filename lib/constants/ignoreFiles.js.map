@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/ignoreFiles.js"],"names":["module","exports"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiB,CACb,SADa,EAEb,YAFa,EAGb,aAHa,CAAjB","file":"ignoreFiles.js","sourcesContent":["// Files containing ignore pattner (sorted by priority)\nmodule.exports = [\n    '.ignore',\n    '.gitignore',\n    '.bookignore'\n];\n"]}

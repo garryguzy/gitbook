@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/extsMarkdown.js"],"names":["module","exports"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB,CACb,KADa,EAEb,WAFa,EAGb,QAHa,CAAjB","file":"extsMarkdown.js","sourcesContent":["module.exports = [\n    '.md',\n    '.markdown',\n    '.mdown'\n];\n"]}

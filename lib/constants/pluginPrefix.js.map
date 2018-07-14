@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/pluginPrefix.js"],"names":["module","exports"],"mappings":";;AACA;;;AAGAA,OAAOC,OAAP,GAAiB,iBAAjB","file":"pluginPrefix.js","sourcesContent":["\n/*\n    All GitBook plugins are NPM packages starting with this prefix.\n*/\nmodule.exports = 'gitbook-plugin-';\n"]}

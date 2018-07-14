@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/templatesFolder.js"],"names":["module","exports"],"mappings":";;AACAA,OAAOC,OAAP,GAAiB,UAAjB","file":"templatesFolder.js","sourcesContent":["\nmodule.exports = '_layouts';\n"]}

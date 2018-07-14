@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/extsAsciidoc.js"],"names":["module","exports"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB,CACb,OADa,EAEb,WAFa,CAAjB","file":"extsAsciidoc.js","sourcesContent":["module.exports = [\n    '.adoc',\n    '.asciidoc'\n];\n"]}

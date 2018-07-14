@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/modifiers/index.js"],"names":["module","exports","Summary","require","Config"],"mappings":";;AACAA,OAAOC,OAAP,GAAiB;AACbC,aAASC,QAAQ,WAAR,CADI;AAEbC,YAASD,QAAQ,UAAR;AAFI,CAAjB","file":"index.js","sourcesContent":["\nmodule.exports = {\n    Summary: require('./summary'),\n    Config:  require('./config')\n};\n"]}

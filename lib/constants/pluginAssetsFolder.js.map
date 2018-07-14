@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/pluginAssetsFolder.js"],"names":["module","exports"],"mappings":";;AACAA,OAAOC,OAAP,GAAiB,SAAjB","file":"pluginAssetsFolder.js","sourcesContent":["\nmodule.exports = '_assets';\n"]}

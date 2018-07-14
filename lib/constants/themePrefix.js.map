@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/themePrefix.js"],"names":["module","exports"],"mappings":";;AAAA;;;AAGAA,OAAOC,OAAP,GAAiB,QAAjB","file":"themePrefix.js","sourcesContent":["/*\n    All GitBook themes plugins name start with this prefix once shorted.\n*/\nmodule.exports = 'theme-';\n"]}

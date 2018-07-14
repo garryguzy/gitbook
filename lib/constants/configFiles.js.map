@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/configFiles.js"],"names":["module","exports"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiB,CACb,SADa,EAEb,WAFa,CAAjB","file":"configFiles.js","sourcesContent":["// Configuration files to test (sorted)\nmodule.exports = [\n    'book.js',\n    'book.json'\n];\n"]}

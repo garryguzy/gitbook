@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/constants/pluginHooks.js"],"names":["module","exports"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB,CACb,MADa,EAEb,QAFa,EAGb,eAHa,EAIb,QAJa,EAKb,MALa,EAMb,aANa,CAAjB","file":"pluginHooks.js","sourcesContent":["module.exports = [\n    'init',\n    'finish',\n    'finish:before',\n    'config',\n    'page',\n    'page:before'\n];\n"]}
